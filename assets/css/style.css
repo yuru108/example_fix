@@ -132,7 +132,7 @@ nav.navbar.bootsnav {
 }
 .navbar-header a.navbar-brand span {
     display: inline-block;
-    color: #5e00ff;
+    color: orange;
     text-transform: capitalize;
 }
 .wrap-sticky nav.navbar.bootsnav.sticked .navbar-header a.navbar-brand,.wrap-sticky nav.navbar.bootsnav.sticked .navbar-header a.navbar-brand:hover,.wrap-sticky nav.navbar.bootsnav.sticked .navbar-header a.navbar-brand:focus {
@@ -155,10 +155,10 @@ nav.navbar.bootsnav ul.nav > li > a {
     padding: 48px 25px;
 }
 nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:focus {
-    color: #5e00ff;
+    color: orange;
 }
 nav.navbar.bootsnav ul.nav > li.active>a {
-    color: #5e00ff;
+    color: orange;
 }
 nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle:after {
     content: "";
@@ -183,7 +183,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown span {
     -webkit-box-shadow: inset 0 0 8px #000;
 }
 .menu-ui-design::-webkit-scrollbar-thumb {
-    background-color: #5e00ff;
+    background-color: orange;
 }
 /*.menu-ui-design*/
 /*.attr-nav*/
@@ -198,7 +198,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown span {
     font-weight: 500;
 }
 .attr-nav > ul > li > a:hover {
-    color: #5e00ff;
+    color: orange;
 }
 .wrap-sticky nav.navbar.bootsnav.sticked .attr-nav > ul > li > a {
     padding: 28px 15px;
@@ -206,8 +206,8 @@ nav.navbar.bootsnav ul.nav > li.dropdown span {
 /*.attr-nav*/
 /*badge*/
 .badge {
-    background-color: #5e00ff;
-    border: 2px solid #5e00ff;
+    background-color: orange;
+    border: 2px solid orange;
 }
 .attr-nav > ul > li > a span.badge {
     margin-top: -25px;
@@ -220,12 +220,12 @@ nav.navbar.bootsnav ul.nav > li.dropdown span {
 nav.navbar.bootsnav .navbar-toggle {
     position: relative;
     background-color: transparent;
-    border: 1px solid #5e00ff;
+    border: 1px solid orange;
     padding: 10px;
     top: 0;
 }
 nav.navbar.bootsnav .navbar-toggle i {
-    color: #5e00ff;
+    color: orange;
 }
 /*.navbar-toggle*/
 /*.cart-list*/
@@ -246,7 +246,7 @@ ul.cart-list > li img {
     -webkit-box-shadow: inset 0 0 8px #000;
 }
 .s-cate::-webkit-scrollbar-thumb {
-    background-color: #5e00ff;
+    background-color: orange;
 }
 .single-cart-list {
     position: relative;
@@ -299,8 +299,8 @@ ul.cart-list > li.total {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #5e00ff;
-    border: 1px solid #5e00ff;
+    background: orange;
+    border: 1px solid orange;
     width: 80px;
     height: 30px;
     white-space: nowrap;
@@ -413,19 +413,19 @@ ul.cart-list > li.total {
     margin-right: 5px;
 }
 .btn-cart.welcome-add-cart.welcome-more-info {
-    color: #5e00ff;
+    color: orange;
     background: transparent;
     border: transparent;
 }
 .btn-cart.welcome-add-cart:hover {
-    color: #5e00ff;
+    color: orange;
     background: transparent;
-    border: 1px solid #5e00ff;
+    border: 1px solid orange;
 }
 .btn-cart.welcome-add-cart.welcome-more-info:hover {
     background: transparent;
-    color: #5e00ff;
-    border: 1px solid #5e00ff;
+    color: orange;
+    border: 1px solid orange;
 }
 /*welcome-hero-content*/
 /* .carousel-indicators*/
@@ -441,7 +441,7 @@ ul.cart-list > li.total {
     text-indent: -999px;
     cursor: pointer;
     background-color: transparent;
-    border: 1px solid #5e00ff;
+    border: 1px solid orange;
     border-radius: 50%;
 }
 .carousel-indicators li>span.small-circle {
@@ -452,13 +452,13 @@ ul.cart-list > li.total {
     width: 8px;
     height: 8px;
     background-color: transparent;
-    border: 1px solid #5e00ff;
+    border: 1px solid orange;
     border-radius: 50%;
 }
 .carousel-indicators li.active>span.small-circle {
     top: 3px;
     left: 3px;
-    background-color: #5e00ff;
+    background-color: orange;
 }
 .carousel-indicators .active {
     position: relative;
@@ -467,7 +467,7 @@ ul.cart-list > li.total {
     height: 16px;
     margin: 12px 10px 0 0;
     background-color: transparent;
-    border: 1px solid #5e00ff;
+    border: 1px solid orange;
 }
 /* .carousel-indicators*/
 /* .carousel-fade*/
@@ -521,7 +521,7 @@ ul.cart-list > li.total {
     transition: 0.3s linear;
 }
 .single-populer-products:hover h2 a {
-    color: #5e00ff;
+    color: orange;
 }
 .single-populer-products-para {
     height: 50px;
@@ -552,7 +552,7 @@ ul.cart-list > li.total {
     text-transform: initial;
 }
 .populer-products-price h4 span {
-    color: #5e00ff;
+    color: orange;
 }
 .btn-cart.welcome-add-cart.populer-products-btn {
     width: 118px;
@@ -711,7 +711,7 @@ p.arrival-review span {
     font-weight: 400;
 }
 .single-new-arrival:hover h4 a {
-    color: #5e00ff;
+    color: orange;
 }
 /*------------------------------------- 6. Sofa-coolection--------------------------------------*/
 #sofa-collection {
@@ -763,7 +763,7 @@ p.arrival-review span {
     font-weight: 700;
 }
 .sofa-collection-txt h4 span {
-    color: #5e00ff;
+    color: orange;
 }
 .sofa-collection-txt p {
     font-size: 16px;
@@ -895,7 +895,7 @@ span.feature-review {
     color: #95908b;
 }
 .single-blog:hover .single-blog-txt h2 a {
-    color: #5e00ff;
+    color: orange;
 }
 /*.single-blog*/
 /*!*------------------------------------- 9. Clients--------------------------------------*!*/
@@ -932,7 +932,7 @@ span.feature-review {
     transition: .3s;
 }
 .hm-foot-menu ul li a:hover {
-    color: #5e00ff;
+    color: orange;
     -webkit-transform: translateX(10px);
     -moz-transform: translateX(10px);
     -ms-transform: translateX(10px);
@@ -967,7 +967,7 @@ span.feature-review {
     width: 50px;
     height: 100%;
     background: transparent;
-    color: #5e00ff;
+    color: orange;
     font-size: 22px;
     display: flex;
     align-items: center;
@@ -999,7 +999,7 @@ span.feature-review {
     transition: .3s;
 }
 .footer-social i:hover {
-    color: #5e00ff;
+    color: orange;
 }
 /*=============================== Scroll Top===============================*/
 #scroll-Top .return-to-top {
@@ -1014,8 +1014,8 @@ span.feature-review {
     font-size: 20px;
     cursor: pointer;
     color: #fff;
-    background: #5e00ff;
-    border: 1px solid #5e00ff;
+    background: orange;
+    border: 1px solid orange;
     border-radius: 50%;
     -webkit-transition: .5s;
     -moz-transition: .5s;
@@ -1026,8 +1026,8 @@ span.feature-review {
 }
 #scroll-Top .return-to-top:hover {
     background: #fff;
-    color: #5e00ff;
-    border: 1px solid #5e00ff;
+    color: orange;
+    border: 1px solid orange;
 }
 #scroll-Top .return-to-top i {
     position: relative;
