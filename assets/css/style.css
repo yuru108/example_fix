@@ -49,7 +49,7 @@ body {
 a,a: hover,a: active,a: focus {
 	display: inline-block;
 	text-decoration: none;
-	color: #616060;
+	color: #282828;
 	font-size: 16px;
 	padding: 0;
 	font-weight: 500;
@@ -124,7 +124,7 @@ nav.navbar.bootsnav {
 /*.navbar-brand*/
 .navbar-header a.navbar-brand,.navbar-header a.navbar-brand:hover,.navbar-header a.navbar-brand:focus {
     display: inline-block;
-    color: #616060;
+    color: #282828;
     font-size: 24px;
     font-weight: 500;
     padding: 45px 0;
@@ -132,7 +132,7 @@ nav.navbar.bootsnav {
 }
 .navbar-header a.navbar-brand span {
     display: inline-block;
-    color: orange;
+    color: #5e00ff;
     text-transform: capitalize;
 }
 .wrap-sticky nav.navbar.bootsnav.sticked .navbar-header a.navbar-brand,.wrap-sticky nav.navbar.bootsnav.sticked .navbar-header a.navbar-brand:hover,.wrap-sticky nav.navbar.bootsnav.sticked .navbar-header a.navbar-brand:focus {
@@ -141,7 +141,7 @@ nav.navbar.bootsnav {
 /*.navbar-brand*/
 /*.nav li*/
 nav.navbar.bootsnav ul.nav > li > a {
-    color: #616060;
+    color: #282828;
     font-size: 16px;
     font-weight: 500;
     text-transform: capitalize;
@@ -155,10 +155,10 @@ nav.navbar.bootsnav ul.nav > li > a {
     padding: 48px 25px;
 }
 nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:focus {
-    color: orange;
+    color: #5e00ff;
 }
 nav.navbar.bootsnav ul.nav > li.active>a {
-    color: orange;
+    color: #5e00ff;
 }
 nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle:after {
     content: "";
@@ -183,7 +183,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown span {
     -webkit-box-shadow: inset 0 0 8px #000;
 }
 .menu-ui-design::-webkit-scrollbar-thumb {
-    background-color: orange;
+    background-color: #5e00ff;
 }
 /*.menu-ui-design*/
 /*.attr-nav*/
@@ -192,13 +192,13 @@ nav.navbar.bootsnav ul.nav > li.dropdown span {
     top: 5px;
 }
 .attr-nav > ul > li > a {
-    color: #616060;
+    color: #282828;
     padding: 44px 15px;
     font-size: 18px;
     font-weight: 500;
 }
 .attr-nav > ul > li > a:hover {
-    color: orange;
+    color: #5e00ff;
 }
 .wrap-sticky nav.navbar.bootsnav.sticked .attr-nav > ul > li > a {
     padding: 28px 15px;
@@ -206,8 +206,8 @@ nav.navbar.bootsnav ul.nav > li.dropdown span {
 /*.attr-nav*/
 /*badge*/
 .badge {
-    background-color: orange;
-    border: 2px solid orange;
+    background-color: #5e00ff;
+    border: 2px solid #5e00ff;
 }
 .attr-nav > ul > li > a span.badge {
     margin-top: -25px;
@@ -220,12 +220,12 @@ nav.navbar.bootsnav ul.nav > li.dropdown span {
 nav.navbar.bootsnav .navbar-toggle {
     position: relative;
     background-color: transparent;
-    border: 1px solid orange;
+    border: 1px solid #5e00ff;
     padding: 10px;
     top: 0;
 }
 nav.navbar.bootsnav .navbar-toggle i {
-    color: orange;
+    color: #5e00ff;
 }
 /*.navbar-toggle*/
 /*.cart-list*/
@@ -246,7 +246,7 @@ ul.cart-list > li img {
     -webkit-box-shadow: inset 0 0 8px #000;
 }
 .s-cate::-webkit-scrollbar-thumb {
-    background-color: orange;
+    background-color: #5e00ff;
 }
 .single-cart-list {
     position: relative;
@@ -299,8 +299,8 @@ ul.cart-list > li.total {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: orange;
-    border: 1px solid orange;
+    background: #5e00ff;
+    border: 1px solid #5e00ff;
     width: 80px;
     height: 30px;
     white-space: nowrap;
@@ -314,7 +314,7 @@ ul.cart-list > li.total {
 /*.packages-price*/
 .packages-price p {
     position: relative;
-    color: #616060;
+    color: #282828;
     font-size: 16px;
     font-weight: 500;
 }
@@ -369,7 +369,7 @@ ul.cart-list > li.total {
 }
 .welcome-hero-txt h2 {
     font-size: 48px;
-    color: #616060;
+    color: #282828;
     font-weight: 400;
     margin: 20px 0 22px;
 }
@@ -385,7 +385,7 @@ ul.cart-list > li.total {
     content: "";
     width: 25px;
     height: 1px;
-    background: #616060;
+    background: #282828;
     top: 45%;
     left: 0;
 }
@@ -413,19 +413,19 @@ ul.cart-list > li.total {
     margin-right: 5px;
 }
 .btn-cart.welcome-add-cart.welcome-more-info {
-    color: orange;
+    color: #5e00ff;
     background: transparent;
     border: transparent;
 }
 .btn-cart.welcome-add-cart:hover {
-    color: orange;
+    color: #5e00ff;
     background: transparent;
-    border: 1px solid orange;
+    border: 1px solid #5e00ff;
 }
 .btn-cart.welcome-add-cart.welcome-more-info:hover {
     background: transparent;
-    color: orange;
-    border: 1px solid orange;
+    color: #5e00ff;
+    border: 1px solid #5e00ff;
 }
 /*welcome-hero-content*/
 /* .carousel-indicators*/
@@ -441,7 +441,7 @@ ul.cart-list > li.total {
     text-indent: -999px;
     cursor: pointer;
     background-color: transparent;
-    border: 1px solid orange;
+    border: 1px solid #5e00ff;
     border-radius: 50%;
 }
 .carousel-indicators li>span.small-circle {
@@ -452,13 +452,13 @@ ul.cart-list > li.total {
     width: 8px;
     height: 8px;
     background-color: transparent;
-    border: 1px solid orange;
+    border: 1px solid #5e00ff;
     border-radius: 50%;
 }
 .carousel-indicators li.active>span.small-circle {
     top: 3px;
     left: 3px;
-    background-color: orange;
+    background-color: #5e00ff;
 }
 .carousel-indicators .active {
     position: relative;
@@ -467,7 +467,7 @@ ul.cart-list > li.total {
     height: 16px;
     margin: 12px 10px 0 0;
     background-color: transparent;
-    border: 1px solid orange;
+    border: 1px solid #5e00ff;
 }
 /* .carousel-indicators*/
 /* .carousel-fade*/
@@ -521,7 +521,7 @@ ul.cart-list > li.total {
     transition: 0.3s linear;
 }
 .single-populer-products:hover h2 a {
-    color: orange;
+    color: #5e00ff;
 }
 .single-populer-products-para {
     height: 50px;
@@ -552,7 +552,7 @@ ul.cart-list > li.total {
     text-transform: initial;
 }
 .populer-products-price h4 span {
-    color: orange;
+    color: #5e00ff;
 }
 .btn-cart.welcome-add-cart.populer-products-btn {
     width: 118px;
@@ -711,7 +711,7 @@ p.arrival-review span {
     font-weight: 400;
 }
 .single-new-arrival:hover h4 a {
-    color: orange;
+    color: #5e00ff;
 }
 /*------------------------------------- 6. Sofa-coolection--------------------------------------*/
 #sofa-collection {
@@ -763,7 +763,7 @@ p.arrival-review span {
     font-weight: 700;
 }
 .sofa-collection-txt h4 span {
-    color: orange;
+    color: #5e00ff;
 }
 .sofa-collection-txt p {
     font-size: 16px;
@@ -895,7 +895,7 @@ span.feature-review {
     color: #95908b;
 }
 .single-blog:hover .single-blog-txt h2 a {
-    color: orange;
+    color: #5e00ff;
 }
 /*.single-blog*/
 /*!*------------------------------------- 9. Clients--------------------------------------*!*/
@@ -932,7 +932,7 @@ span.feature-review {
     transition: .3s;
 }
 .hm-foot-menu ul li a:hover {
-    color: orange;
+    color: #5e00ff;
     -webkit-transform: translateX(10px);
     -moz-transform: translateX(10px);
     -ms-transform: translateX(10px);
@@ -967,7 +967,7 @@ span.feature-review {
     width: 50px;
     height: 100%;
     background: transparent;
-    color: orange;
+    color: #5e00ff;
     font-size: 22px;
     display: flex;
     align-items: center;
@@ -999,7 +999,7 @@ span.feature-review {
     transition: .3s;
 }
 .footer-social i:hover {
-    color: orange;
+    color: #5e00ff;
 }
 /*=============================== Scroll Top===============================*/
 #scroll-Top .return-to-top {
@@ -1014,8 +1014,8 @@ span.feature-review {
     font-size: 20px;
     cursor: pointer;
     color: #fff;
-    background: orange;
-    border: 1px solid orange;
+    background: #5e00ff;
+    border: 1px solid #5e00ff;
     border-radius: 50%;
     -webkit-transition: .5s;
     -moz-transition: .5s;
@@ -1026,8 +1026,8 @@ span.feature-review {
 }
 #scroll-Top .return-to-top:hover {
     background: #fff;
-    color: orange;
-    border: 1px solid orange;
+    color: #5e00ff;
+    border: 1px solid #5e00ff;
 }
 #scroll-Top .return-to-top i {
     position: relative;
